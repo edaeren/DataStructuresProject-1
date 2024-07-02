@@ -1,0 +1,1 @@
+veri.txt isimli dosyayı doc klasörünün içine attım, o yüzden dosyayı bulmak için ".\\doc\\veri.txt" yolunu kullanıyor. Kendi dosyanızı kullanırken lütfen bunu dikkate alınız
